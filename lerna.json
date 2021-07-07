@@ -1,6 +1,11 @@
 {
-  "packages": [
-    "packages/*"
+  "packages": ["packages/*"],
+  "ignoreChanges": [
+    "**/CHANGELOG.md",
+    "**/node_modules/**",
+    "**/package.json",
+    "**/*.md",
+    "**/perf/**"
   ],
-  "version": "0.0.2"
+  "version": "independent"
 }
