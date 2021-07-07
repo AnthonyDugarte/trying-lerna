@@ -1,4 +1,10 @@
 {
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "message": "[skip ci] chore: release"
+    }
+  },
   "packages": ["packages/*"],
   "ignoreChanges": [
     "**/CHANGELOG.md",
