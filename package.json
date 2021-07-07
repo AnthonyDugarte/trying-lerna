@@ -1,7 +1,9 @@
 {
   "name": "@anthonydugarte/trying-lerna",
   "version": "1.0.0",
-  "author": "Anthony Dugarte",
+  "author": {
+    "name": "Anthony Dugarte"
+  },
   "license": "MIT",
   "private": true,
   "workspaces": [
