@@ -1,7 +1,6 @@
 {
   "command": {
     "publish": {
-      "conventionalCommits": true,
       "message": "[skip ci] chore: release"
     }
   },
