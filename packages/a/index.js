@@ -1,1 +1,1 @@
-console.log("Hi from a! canary 3");
+console.log("Hi from a!");
