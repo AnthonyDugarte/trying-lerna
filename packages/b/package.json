@@ -1,12 +1,12 @@
 {
   "name": "@anthonydugarte/trying-lerna-b",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@anthonydugarte/trying-lerna-a": "^0.0.2-alpha.1"
+    "@anthonydugarte/trying-lerna-a": "^0.0.3"
   }
 }
