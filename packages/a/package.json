@@ -1,0 +1,7 @@
+{
+  "name": "@anthonydugarte/trying-lerna-a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anthony Dugarte",
+  "license": "MIT"
+}
