@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@anthonydugarte/trying-lerna-a@^0.0.2-alpha.1":
+  version "0.0.2-alpha.1"
+  resolved "https://registry.yarnpkg.com/@anthonydugarte/trying-lerna-a/-/trying-lerna-a-0.0.2-alpha.1.tgz#778bdbb43973e44c61830fd3a9ceebdf42292cc0"
+  integrity sha512-a6LV91hqdqZYXwZ3Z2BwM2uoBy8thlc18BDv3XZpbAUlL6YTPzZCleDHJi6qn9xaS5wR56hgA2Jkl8cIHVq3gA==
+
 "@babel/code-frame@^7.0.0":
   version "7.14.5"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.14.5.tgz#23b08d740e83f49c5e59945fbf1b43e80bbf4edb"
